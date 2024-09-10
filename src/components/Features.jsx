@@ -18,22 +18,22 @@ const items = [
     icon: <ViewQuiltRoundedIcon />,
     title: 'Dashboard',
     description: 'This item could provide a snapshot of the most important metrics or data points related to the product.',
-    imageLight: 'url("./src/assets/dash-light.png")',
-    imageDark: 'url("./src/assets/dash-dark.png")',
+    imageLight: 'url("./dash-light.png")',
+    imageDark: 'url("./dash-dark.png")',
   },
   {
     icon: <EdgesensorHighRoundedIcon />,
     title: 'Mobile integration',
     description: 'This item could provide information about the mobile app version of the product.',
-    imageLight: 'url("./src/assets/mobile-light.png")',
-    imageDark: 'url("./src/assets/mobile-dark.png")',
+    imageLight: 'url("./mobile-light.png")',
+    imageDark: 'url("./mobile-dark.png")',
   },
   {
     icon: <DevicesRoundedIcon />,
     title: 'Available on all platforms',
     description: 'This item could let users know the product is available on all platforms, such as web, mobile, and desktop.',
-    imageLight: 'url("./src/assets/devices-light.png")',
-    imageDark: 'url("./src/assets/devices-dark.png")',
+    imageLight: 'url("./devices-light.png")',
+    imageDark: 'url("./devices-dark.png")',
   },
 ];
 
